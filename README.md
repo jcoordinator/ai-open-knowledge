@@ -27,12 +27,7 @@ Built by the community, for the community — students, developers, AI engineers
 [![CI](https://img.shields.io/github/actions/workflow/status/jcoordinator/ai-open-knowledge/ci.yml?style=flat-square&label=CI)](https://github.com/jcoordinator/ai-open-knowledge/actions)
 
 </div>
-
-> [!NOTE]
-> Replace `jcoordinator/ai-open-knowledge` in the badge URLs above with your actual GitHub organization and repository name.
-
----
-
+ 
 ## 📖 Table of Contents
 
 - [🧠 AI Open Knowledge](#-ai-open-knowledge)
