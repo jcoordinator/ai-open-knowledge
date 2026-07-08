@@ -14,22 +14,22 @@ Built by the community, for the community — students, developers, AI engineers
 
 ---
 
-[![GitHub Stars](https://img.shields.io/github/stars/OWNER/ai-open-knowledge?style=for-the-badge&logo=github&color=gold)](https://github.com/OWNER/ai-open-knowledge/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/OWNER/ai-open-knowledge?style=for-the-badge&logo=github&color=blue)](https://github.com/OWNER/ai-open-knowledge/network/members)
-[![Contributors](https://img.shields.io/github/contributors/OWNER/ai-open-knowledge?style=for-the-badge&color=green)](https://github.com/OWNER/ai-open-knowledge/graphs/contributors)
+[![GitHub Stars](https://img.shields.io/github/stars/jcoordinator/ai-open-knowledge?style=for-the-badge&logo=github&color=gold)](https://github.com/jcoordinator/ai-open-knowledge/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/jcoordinator/ai-open-knowledge?style=for-the-badge&logo=github&color=blue)](https://github.com/jcoordinator/ai-open-knowledge/network/members)
+[![Contributors](https://img.shields.io/github/contributors/jcoordinator/ai-open-knowledge?style=for-the-badge&color=green)](https://github.com/jcoordinator/ai-open-knowledge/graphs/contributors)
 
-[![License](https://img.shields.io/github/license/OWNER/ai-open-knowledge?style=flat-square)](./LICENSE)
+[![License](https://img.shields.io/github/license/jcoordinator/ai-open-knowledge?style=flat-square)](./LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](./CONTRIBUTING.md)
-[![Issues](https://img.shields.io/github/issues/OWNER/ai-open-knowledge?style=flat-square)](https://github.com/OWNER/ai-open-knowledge/issues)
+[![Issues](https://img.shields.io/github/issues/jcoordinator/ai-open-knowledge?style=flat-square)](https://github.com/jcoordinator/ai-open-knowledge/issues)
 [![Made with Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=flat-square)](https://www.markdownguide.org/)
 [![Awesome](https://awesome.re/badge-flat.svg)](./awesome-lists/)
-[![Last Commit](https://img.shields.io/github/last-commit/OWNER/ai-open-knowledge?style=flat-square)](https://github.com/OWNER/ai-open-knowledge/commits)
-[![CI](https://img.shields.io/github/actions/workflow/status/OWNER/ai-open-knowledge/ci.yml?style=flat-square&label=CI)](https://github.com/OWNER/ai-open-knowledge/actions)
+[![Last Commit](https://img.shields.io/github/last-commit/jcoordinator/ai-open-knowledge?style=flat-square)](https://github.com/jcoordinator/ai-open-knowledge/commits)
+[![CI](https://img.shields.io/github/actions/workflow/status/jcoordinator/ai-open-knowledge/ci.yml?style=flat-square&label=CI)](https://github.com/jcoordinator/ai-open-knowledge/actions)
 
 </div>
 
 > [!NOTE]
-> Replace `OWNER/ai-open-knowledge` in the badge URLs above with your actual GitHub organization and repository name.
+> Replace `jcoordinator/ai-open-knowledge` in the badge URLs above with your actual GitHub organization and repository name.
 
 ---
 
@@ -722,8 +722,8 @@ This project stands on the shoulders of the global open-source and AI research c
 
 <div align="center">
 
-<!-- Replace OWNER/ai-open-knowledge with your repository -->
-[![Star History Chart](https://api.star-history.com/svg?repos=OWNER/ai-open-knowledge&type=Date)](https://star-history.com/#OWNER/ai-open-knowledge&Date)
+<!-- Replace jcoordinator/ai-open-knowledge with your repository -->
+[![Star History Chart](https://api.star-history.com/svg?repos=jcoordinator/ai-open-knowledge&type=Date)](https://star-history.com/#jcoordinator/ai-open-knowledge&Date)
 
 </div>
 
@@ -735,9 +735,9 @@ Thanks go to these wonderful people:
 
 <div align="center">
 
-<!-- Replace OWNER/ai-open-knowledge with your repository -->
-<a href="https://github.com/OWNER/ai-open-knowledge/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=OWNER/ai-open-knowledge" alt="Contributors" />
+<!-- Replace jcoordinator/ai-open-knowledge with your repository -->
+<a href="https://github.com/jcoordinator/ai-open-knowledge/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=jcoordinator/ai-open-knowledge" alt="Contributors" />
 </a>
 
 *Contributions of any kind are welcome — see [CONTRIBUTING.md](./CONTRIBUTING.md) to add yourself to this list!*
