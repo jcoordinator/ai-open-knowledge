@@ -27,7 +27,6 @@ Our community includes students, developers, AI engineers, researchers, educator
 [![Made with Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=flat-square)](https://www.markdownguide.org/)
 [![Awesome](https://awesome.re/badge-flat.svg)](./awesome-lists/)
 [![Last Commit](https://img.shields.io/github/last-commit/jcoordinator/ai-open-knowledge?style=flat-square)](https://github.com/jcoordinator/ai-open-knowledge/commits)
-[![CI](https://img.shields.io/github/actions/workflow/status/jcoordinator/ai-open-knowledge/ci.yml?style=flat-square&label=CI)](https://github.com/jcoordinator/ai-open-knowledge/actions)
 
  
 ## 📖 Table of Contents
