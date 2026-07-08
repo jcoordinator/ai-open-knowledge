@@ -1,8 +1,11 @@
 <div align="center">
 
-# 🧠 AI Open Knowledge
+# AI Open Knowledge
 
+![AI Open Knowledge — is a community-driven, open-source project dedicated to making Artificial Intelligence knowledge accessible to everyone](assets/banner.png)
 ### Building, learning, and growing together to create the world's largest free and open AI knowledge repository.
+
+</div>
 
 **AI Open Knowledge** is a community-driven, open-source project dedicated to making Artificial Intelligence knowledge accessible to everyone. We bring together learning resources, engineering guides, prompts, workflows, AI agents, tutorials, research papers, datasets, examples, templates, best practices, and much more—all in one place.
 
@@ -15,8 +18,6 @@ Our community includes students, developers, AI engineers, researchers, educator
 ⭐ **If you find this repository useful, please consider giving it a star and contributing. Every pull request, resource, correction, or idea helps make AI knowledge more accessible for everyone. Together, we're building the future of open AI knowledge.**
 
 ---
-
-[![GitHub Stars](https://img.shields.io/github/stars/jcoordinator/ai-open-knowledge?style=for-the-badge&logo=github&color=gold)](https://github.com/jcoordinator/ai-open-knowledge/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/jcoordinator/ai-open-knowledge?style=for-the-badge&logo=github&color=blue)](https://github.com/jcoordinator/ai-open-knowledge/network/members)
 [![Contributors](https://img.shields.io/github/contributors/jcoordinator/ai-open-knowledge?style=for-the-badge&color=green)](https://github.com/jcoordinator/ai-open-knowledge/graphs/contributors)
 
@@ -28,7 +29,6 @@ Our community includes students, developers, AI engineers, researchers, educator
 [![Last Commit](https://img.shields.io/github/last-commit/jcoordinator/ai-open-knowledge?style=flat-square)](https://github.com/jcoordinator/ai-open-knowledge/commits)
 [![CI](https://img.shields.io/github/actions/workflow/status/jcoordinator/ai-open-knowledge/ci.yml?style=flat-square&label=CI)](https://github.com/jcoordinator/ai-open-knowledge/actions)
 
-</div>
  
 ## 📖 Table of Contents
 
