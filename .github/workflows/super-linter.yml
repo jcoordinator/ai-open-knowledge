@@ -19,7 +19,7 @@ jobs:
       - uses: github/super-linter@v8
         env:
           DEFAULT_BRANCH: main
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
           VALIDATE_MARKDOWN: true
           VALIDATE_YAML: true
